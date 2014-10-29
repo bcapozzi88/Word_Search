@@ -1,0 +1,3 @@
+Word Search
+
+A simple program for creating a random word search given a list of words and a grid size. When run, the program prompts the user for a list of words, and an integer size for creating a size by size grid. The program then prints a jumbled grid, with the words in the word list randomly dispersed throughout. Currently there is functionality for words appearing horizontally and vertically, and either being printed forward or backwards. There is no diagonal support.
